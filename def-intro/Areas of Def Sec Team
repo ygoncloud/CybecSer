@@ -1,0 +1,37 @@
+# Defensive Security Notes
+
+## 1. Security Operations Center (SOC)
+
+A **Security Operations Center (SOC)** is a dedicated team of cybersecurity professionals responsible for **monitoring, detecting, and responding** to threats across networks and systems.
+
+### Key Responsibilities of a SOC:
+
+- **Vulnerabilities**
+  - Monitor for system weaknesses.
+  - Ensure timely patching and remediation.
+  - Apply mitigation strategies if patches are unavailable.
+  - Note: Remediation may not be directly handled by SOC.
+
+- **Policy Violations**
+  - Enforce and monitor adherence to security policies.
+  - Example: Uploading sensitive data to unauthorized cloud storage.
+
+- **Unauthorized Activity**
+  - Detect and respond to account compromises (e.g., stolen credentials).
+  - Take action before attackers can escalate or cause damage.
+
+- **Network Intrusions**
+  - Identify and contain intrusions quickly.
+  - Examples: Clicking malicious links or exploiting public-facing servers.
+
+### Threat Intelligence
+
+- Integral part of SOC operations.
+- Involves collecting, analyzing, and acting on information about existing or emerging threats.
+- Helps in proactive defense and informed incident response.
+
+---
+
+To be continued:  
+✅ Next section - **Digital Forensics and Incident Response (DFIR)**
+

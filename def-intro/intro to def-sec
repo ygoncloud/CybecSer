@@ -1,0 +1,39 @@
+# Offensive vs. Defensive Security
+
+## Offensive Security
+
+**Goal:** Identify and exploit vulnerabilities to improve overall security posture.
+
+### Common Techniques:
+- Exploiting software bugs.
+- Leveraging insecure system configurations.
+- Bypassing or abusing weak access control policies.
+
+### Key Teams:
+- **Red Team:** Simulates real-world attacks to test defenses.
+- **Penetration Testing Team:** Conducts controlled attacks to find vulnerabilities.
+
+---
+
+## Defensive Security
+
+**Goal:** 
+1. Prevent intrusions before they occur.
+2. Detect and respond effectively to intrusions when they happen.
+
+### Key Team:
+- **Blue Team:** Defends systems against real-world attacks and helps maintain a secure environment.
+
+### Common Tasks:
+1. Promoting user cybersecurity awareness.
+2. Documenting and managing IT assets.
+3. Keeping systems up-to-date and patched.
+4. Deploying preventative security devices (e.g., firewalls).
+5. Implementing logging and monitoring systems.
+
+### Advanced Areas in Defensive Security:
+- **Security Operations Center (SOC)**
+- **Threat Intelligence**
+- **Digital Forensics and Incident Response (DFIR)**
+- **Malware Analysis**
+
